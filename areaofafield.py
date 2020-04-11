@@ -8,6 +8,7 @@ width = int(width)
 
 area = length * width
 
+# square feet change into acre
 your_acres = area / 43560
 your_acres = str(your_acres)
 
