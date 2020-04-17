@@ -10,4 +10,4 @@ sec = int(sec)
 
 total_sec = day*24*60*60 + hour*60*60 + min*60 + sec
 
-print("Total duration is %i seconds", %total_sec)
+print("Total duration is %i seconds"  %total_sec)
